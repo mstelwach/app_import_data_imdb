@@ -1,4 +1,4 @@
-# Nozbe-imdb
+# Import-data-imdb
 
 
 It is an application that retrieves the contents of name.basics.tsv and title.basics.tsv and imports into the database PostgreSQL. The application uses the REST-API.
